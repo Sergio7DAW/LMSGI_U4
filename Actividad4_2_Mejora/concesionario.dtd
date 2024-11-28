@@ -1,0 +1,13 @@
+<!ELEMENT concesionarioBD (coche*)>  
+    <!ELEMENT coche (codigo, marca, modelo, matricula, potencia, plazas, num_puertas)> 
+    <!ATTLIST coche id CDATA #REQUIRED> 
+    <!ELEMENT codigo (#PCDATA)>  
+    <!ELEMENT marca (#PCDATA)> 
+    <!ATTLIST marca paginaWeb CDATA #IMPLIED> 
+    <!ELEMENT modelo (#PCDATA)> 
+    <!ELEMENT matricula (#PCDATA)> 
+    <!ELEMENT potencia (#PCDATA)> 
+    <!ELEMENT plazas (#PCDATA)>  
+    <!ELEMENT num_puertas (#PCDATA)>  
+   
+    

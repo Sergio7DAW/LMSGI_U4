@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="libros.xsd">
+    <libro>
+        <codigo>G7A9B2</codigo>
+        <titulo>El Visitante</titulo>
+        <editorial>Anchor</editorial>
+        <edicion>1st Edition</edicion>
+        <isbn>0307743675</isbn>
+        <num_pag>304</num_pag>
+        <autor>
+                <nombre>Stephen King</nombre>
+                <genero_p>Horror</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>H9B3C5</codigo>
+        <titulo>La Sombra del Viento</titulo>
+        <editorial>Planeta</editorial>
+        <edicion>2nd Edition</edicion>
+        <isbn>8408089040</isbn>
+        <num_pag>560</num_pag>
+        <autor>
+                <nombre>Carlos Ruiz Zafón</nombre>
+                <genero_p>Fiction</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>K8L7A4</codigo>
+        <titulo>Cien Años de Soledad</titulo>
+        <editorial>Sudamericana</editorial>
+        <edicion>50th Anniversary Edition</edicion>
+        <isbn>9780307474728</isbn>
+        <num_pag>448</num_pag>
+        <autor>
+                <nombre>Gabriel García Márquez</nombre>
+                <genero_p>Magical Realism</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>D3B1F7</codigo>
+        <titulo>1984</titulo>
+        <editorial>Penguin</editorial>
+        <edicion>Reprint Edition</edicion>
+        <isbn>0451524934</isbn>
+        <num_pag>328</num_pag>
+        <autor>
+                <nombre>George Orwell</nombre>
+                <genero_p>Dystopian</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>Q2F8Z6</codigo>
+        <titulo>Orgullo y Prejuicio</titulo>
+        <editorial>Penguin Classics</editorial>
+        <edicion>Annotated Edition</edicion>
+        <isbn>9780141439518</isbn>
+        <num_pag>432</num_pag>
+        <autor>
+                <nombre>Jane Austen</nombre>
+                <genero_p>Romance</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>R1P6T3</codigo>
+        <titulo>El Hobbit</titulo>
+        <editorial>Houghton Mifflin</editorial>
+        <edicion>Deluxe Edition</edicion>
+        <isbn>9780618260300</isbn>
+        <num_pag>320</num_pag>
+        <autor>
+                <nombre>J.R.R. Tolkien</nombre>
+                <genero_p>Fantasy</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>A5K2W4</codigo>
+        <titulo>El Alquimista</titulo>
+        <editorial>HarperCollins</editorial>
+        <edicion>25th Anniversary Edition</edicion>
+        <isbn>9780062315007</isbn>
+        <num_pag>208</num_pag>
+        <autor>
+                <nombre>Paulo Coelho</nombre>
+                <genero_p>Philosophical Fiction</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>J8B5M1</codigo>
+        <titulo>La Guerra de los Mundos</titulo>
+        <editorial>Gallimard</editorial>
+        <edicion>First Edition</edicion>
+        <isbn>9782070405771</isbn>
+        <num_pag>348</num_pag>
+        <autor>
+                <nombre>H.G. Wells</nombre>
+                <genero_p>Science Fiction</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>T4C9V2</codigo>
+        <titulo>El Retrato de Dorian Gray</titulo>
+        <editorial>Oxford World’s Classics</editorial>
+        <edicion>Revised Edition</edicion>
+        <isbn>9780199535976</isbn>
+        <num_pag>368</num_pag>
+        <autor>
+                <nombre>Oscar Wilde</nombre>
+                <genero_p>Gothic Fiction</genero_p>
+            </autor>
+    </libro>
+
+    <libro>
+        <codigo>P6V3L8</codigo>
+        <titulo>El Gran Gatsby</titulo>
+        <editorial>Charles Scribner's Sons</editorial>
+        <edicion>First Edition</edicion>
+        <isbn>9780743273565</isbn>
+        <num_pag>180</num_pag>
+        <autor>
+                <nombre>F. Scott Fitzgerald</nombre>
+                <genero_p>Classic Fiction</genero_p>
+            </autor>
+    </libro>
+
+</libros>

@@ -1,0 +1,13 @@
+<!ELEMENT discografiaMBD (album*)>  
+    <!ELEMENT album (grupo, genero, titulo, fecha_lanz, discografica, ventas, duracion, num_canciones, canciones)> 
+    <!ELEMENT grupo (#PCDATA)>  
+    <!ELEMENT genero (#PCDATA)>  
+    <!ELEMENT titulo (#PCDATA)> 
+    <!ELEMENT fecha_lanz (#PCDATA)> 
+    <!ELEMENT discografica (#PCDATA)> 
+    <!ELEMENT ventas (#PCDATA)> 
+    <!ELEMENT duracion (#PCDATA)>  
+    <!ELEMENT num_canciones (#PCDATA)>  
+    <!ELEMENT canciones (cancion*)>  
+    <!ELEMENT cancion (#PCDATA)>  
+    

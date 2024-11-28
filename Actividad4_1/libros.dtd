@@ -1,0 +1,12 @@
+<!ELEMENT libreriaBD (libro+)>  
+    <!ELEMENT libro (codigo, titulo, editorial, edicion, isbn, num_pag, autor)> 
+    <!ELEMENT codigo (#PCDATA)>  
+    <!ELEMENT titulo (#PCDATA)>  
+    <!ELEMENT editorial (#PCDATA)> 
+    <!ELEMENT edicion (#PCDATA)> 
+    <!ELEMENT isbn (#PCDATA)> 
+    <!ELEMENT num_pag (#PCDATA)>  
+    <!ELEMENT autor (nombre, genero_p)>  
+    <!ELEMENT nombre (#PCDATA)>  
+    <!ELEMENT genero_p (#PCDATA)>  
+    

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografiaMBD SYSTEM "discografiaM.dtd">
+<discografiaMBD>
+    <album>
+        <grupo>Metallica</grupo>
+        <genero>Thrash Metal</genero>
+        <titulo>...And Justice for All</titulo>
+        <fecha_lanz>1988-09-06</fecha_lanz>
+        <discografica>Elektra Records</discografica>
+        <ventas>8 million copies (USA)</ventas>
+        <duracion>65:46</duracion>
+        <num_canciones>9</num_canciones>
+        <canciones>
+            <cancion>Blackened</cancion>
+            <cancion>...And Justice for All</cancion>
+            <cancion>Eye of the Beholder</cancion>
+            <cancion>One</cancion>
+            <cancion>The Shortest Straw</cancion>
+            <cancion>Harvester of Sorrow</cancion>
+            <cancion>The Frayed Ends of Sanity</cancion>
+            <cancion>To Live is to Die</cancion>
+            <cancion>Dyer's Eve</cancion>
+        </canciones>
+    </album>
+
+    <album>
+        <grupo>Metallica</grupo>
+        <genero>Thrash Metal</genero>
+        <titulo>Ride the Lightning</titulo>
+        <fecha_lanz>1984-07-27</fecha_lanz>
+        <discografica>Megaforce Records</discografica>
+        <ventas>6 million copies (USA)</ventas>
+        <duracion>46:00</duracion>
+        <num_canciones>8</num_canciones>
+        <canciones>
+            <cancion>Fight Fire with Fire</cancion>
+            <cancion>Ride the Lightning</cancion>
+            <cancion>For Whom the Bell Tolls</cancion>
+            <cancion>Fade to Black</cancion>
+            <cancion>Trapped Under Ice</cancion>
+            <cancion>Escape</cancion>
+            <cancion>Creeping Death</cancion>
+            <cancion>The Call of Ktulu</cancion>
+        </canciones>
+    </album>
+
+    <album>
+        <grupo>Metallica</grupo>
+        <genero>Thrash Metal</genero>
+        <titulo>Master of Puppets</titulo>
+        <fecha_lanz>1986-03-03</fecha_lanz>
+        <discografica>Elektra Records</discografica>
+        <ventas>10 million copies (USA)</ventas>
+        <duracion>54:05</duracion>
+        <num_canciones>8</num_canciones>
+        <canciones>
+            <cancion>Battery</cancion>
+            <cancion>Master of Puppets</cancion>
+            <cancion>The Thing That Should Not Be</cancion>
+            <cancion>Welcome Home (Sanitarium)</cancion>
+            <cancion>Disposable Heroes</cancion>
+            <cancion>Leper Messiah</cancion>
+            <cancion>Orion</cancion>
+            <cancion>Damage, Inc.</cancion>
+        </canciones>
+    </album>
+</discografiaMBD>

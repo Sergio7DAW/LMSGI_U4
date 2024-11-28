@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionarioBD SYSTEM "concesionario.dtd">
+<concesionarioBD> 
+    <coche id="1">
+        <codigo>G7A9B2</codigo>
+        <marca paginaWeb="www.subaru.com">Subaru</marca>
+        <modelo>Impreza WRX STI</modelo>
+        <matricula>XYZ1234</matricula>
+        <potencia>300</potencia>
+        <plazas>5</plazas>
+        <num_puertas>4</num_puertas>
+    </coche>
+    
+    <coche id="2">
+        <codigo>H9B3C5</codigo>
+        <marca paginaWeb="www.toyota.com">Toyota</marca>
+        <modelo>Celica GT-Four</modelo>
+        <matricula>ABC5678</matricula>
+        <potencia>250</potencia>
+        <plazas>4</plazas>
+        <num_puertas>3</num_puertas>
+    </coche>
+    
+    <coche  id="3">
+        <codigo>J8L1M9</codigo>
+        <marca paginaWeb="www.mitsubishi.com">Mitsubishi</marca>
+        <modelo>Lancer Evolution IX</modelo>
+        <matricula>LMN9876</matricula>
+        <potencia>280</potencia>
+        <plazas>5</plazas>
+        <num_puertas>4</num_puertas>
+    </coche>
+    
+    <coche  id="3">
+        <codigo>P2F6R8</codigo>
+        <marca paginaWeb="www.nissan.com">Nissan</marca>
+        <modelo>Skyline GT-R</modelo>
+        <matricula>DEF4321</matricula>
+        <potencia>280</potencia>
+        <plazas>4</plazas>
+        <num_puertas>2</num_puertas>
+    </coche>
+    
+    <coche  id="4">
+        <codigo>Q7B4S3</codigo>
+        <marca paginaWeb="www.honda.com">Honda</marca>
+        <modelo>Civic Type R</modelo>
+        <matricula>JKL1234</matricula>
+        <potencia>306</potencia>
+        <plazas>5</plazas>
+        <num_puertas>4</num_puertas>
+    </coche>
+    
+    <coche  id="5">
+        <codigo>K9J2T5</codigo>
+        <marca paginaWeb="www.mazda.com">Mazda</marca>
+        <modelo>RX-7</modelo>
+        <matricula>GHJ8765</matricula>
+        <potencia>276</potencia>
+        <plazas>2</plazas>
+        <num_puertas>2</num_puertas>
+    </coche>
+    
+</concesionarioBD>
