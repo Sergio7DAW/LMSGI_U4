@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BDgestoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="BDgestoriaSchema.xsd">
+  <gestoria>
+    <sedeCodigo>
+        <cliente codigo="x23-v53">
+            <descCliente></descCliente>
+            <numero></numero>
+            <vivienda ID="a34-k345-l35">
+                <coste></coste>
+                <resumen></resumen>
+                <plazo></plazo>
+            </vivienda>
+            <empleadoAlta></empleadoAlta>
+            <fechaAlta></fechaAlta>
+        </cliente>
+    </sedeCodigo>
+  </gestoria>  
+</BDgestoria>

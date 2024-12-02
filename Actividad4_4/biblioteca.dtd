@@ -1,0 +1,17 @@
+<!ELEMENT bibliotecaBD (biblioteca*)>  
+    <!ELEMENT biblioteca (cuidadCodigo)> 
+    <!ELEMENT cuidadCodigo (cliente)> 
+    <!ELEMENT cliente (clientePerfil, telefono, libro, empleadoAlta, fechaAlta)> 
+    <!ATTLIST cliente codigo CDATA #REQUIRED>
+    <!ELEMENT clientePerfil (#PCDATA)> 
+    <!ELEMENT telefono (#PCDATA)>  
+    <!ELEMENT libro (nombre, autor, plazo)> 
+    <!ATTLIST libro ID CDATA #REQUIRED>
+    <!ELEMENT nombre (#PCDATA)> 
+    <!ELEMENT autor (#PCDATA)> 
+    <!ELEMENT plazo (#PCDATA)>
+    <!ELEMENT empleadoAlta (#PCDATA)> 
+    <!ELEMENT fechaAlta (#PCDATA)> 
+   
+
+    

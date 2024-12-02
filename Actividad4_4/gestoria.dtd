@@ -1,0 +1,17 @@
+<!ELEMENT gestoriaBD (gestoria*)>  
+    <!ELEMENT gestoria (sedeCodigo)> 
+    <!ELEMENT sedeCodigo (cliente)> 
+    <!ELEMENT cliente (descCliente, numero, vivienda, empleadoAlta, fechaAlta)> 
+    <!ATTLIST cliente codigo CDATA #REQUIRED>
+    <!ELEMENT descCliente (#PCDATA)> 
+    <!ELEMENT numero (#PCDATA)>  
+    <!ELEMENT vivienda (coste, resumen, plazo)> 
+    <!ATTLIST vivienda ID CDATA #REQUIRED>
+    <!ELEMENT coste (#PCDATA)> 
+    <!ELEMENT resumen (#PCDATA)> 
+    <!ELEMENT plazo (#PCDATA)>
+    <!ELEMENT empleadoAlta (#PCDATA)> 
+    <!ELEMENT fechaAlta (#PCDATA)> 
+   
+
+    

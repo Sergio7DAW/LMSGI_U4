@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnoBD SYSTEM "alumno.dtd">
+<alumnoBD>
+  <alumnos>
+    <alumno>
+      <nombre></nombre>
+      <observaciones></observaciones>
+      <nif></nif>
+      <resultado estado="apto"></resultado>
+      <mac></mac>
+    </alumno>
+  </alumnos>
+</alumnoBD>

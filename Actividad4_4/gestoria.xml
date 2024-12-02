@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gestoriaBD SYSTEM "gestoria.dtd">
+<gestoriaBD>
+  <gestoria>
+    <sedeCodigo>
+        <cliente codigo="">
+            <descCliente></descCliente>
+            <numero></numero>
+            <vivienda ID="">
+                <coste></coste>
+                <resumen></resumen>
+                <plazo></plazo>
+            </vivienda>
+            <empleadoAlta></empleadoAlta>
+            <fechaAlta></fechaAlta>
+        </cliente>
+    </sedeCodigo>
+  </gestoria>  
+</gestoriaBD>

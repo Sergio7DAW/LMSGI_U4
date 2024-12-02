@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliotecaBD SYSTEM "biblioteca.dtd">
+<bibliotecaBD>
+  <biblioteca>
+    <cuidadCodigo>
+        <cliente codigo="">
+            <clientePerfil></clientePerfil>
+            <telefono></telefono>
+            <libro ID="">
+                <nombre></nombre>
+                <autor></autor>
+                <plazo></plazo>
+            </libro>
+            <empleadoAlta></empleadoAlta>
+            <fechaAlta></fechaAlta>
+        </cliente>
+    </cuidadCodigo>
+  </biblioteca>  
+</bibliotecaBD>

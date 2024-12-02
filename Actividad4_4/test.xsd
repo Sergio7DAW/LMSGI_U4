@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" xml:lang="es">
+    <xs:element name="BDgestoria">
+    <xs:complexType>
+    <xs:sequence>
+    <xs:element name="gestoria" maxOccurs="unbounded">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="sedeCodigo" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="cliente" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="id" type="xs:ID" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="descCliente" type="xs:string"></xs:element>
+                                        <xs:element name="numero " type="xs:string"></xs:element>
+                                        <xs:complexType>
+                                            <xs:sequence>
+                                                <xs:element name="vivienda" maxOccurs="unbounded">
+                                                    <xs:complexType>
+                                                        <xs:simpleContent>
+                                                            <xs:extension base="xs:string">
+                                                                <xs:attribute name="codigo"
+                                                                    type="xs:ID"
+                                                                    use="required" />
+                                                            </xs:extension>
+                                                        </xs:simpleContent>
+                                                    </xs:complexType>
+                                                    <xs:complexType>
+                                                        <xs:sequence>
+                                                            <xs:element name="coste"
+                                                                type="xs:string"></xs:element>
+                                                            <xs:element name="resumen"
+                                                                type="xs:string"></xs:element>
+                                                            <xs:element name="plazo"
+                                                                type="xs:string"></xs:element>
+                                                        </xs:sequence>
+                                                    </xs:complexType>
+                                                </xs:element>
+                                            </xs:sequence>
+                                        </xs:complexType>
+                                        <xs:element name="empleadoAlta" type="xs:string"></xs:element>
+                                        <xs:element name="fechaAlta" type="xs:string"></xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+</xs:schema>
+                   

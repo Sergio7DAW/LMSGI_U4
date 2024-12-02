@@ -1,0 +1,14 @@
+<!ELEMENT alumnoBD (alumnos*)>  
+    <!ELEMENT alumnos (alumno)> 
+    <!ELEMENT alumno (nombre, observaciones?, nif, resultado, ip?, mac?)> 
+    <!ELEMENT nombre (#PCDATA)> 
+    <!ELEMENT observaciones (#PCDATA)> 
+    <!ELEMENT nif (#PCDATA)>  
+    <!ELEMENT resultado (#PCDATA)>  
+    <!ATTLIST resultado  estado (apto | noApto) #REQUIRED>
+    <!ELEMENT ip (#PCDATA)> 
+    <!ELEMENT mac (#PCDATA)> 
+    
+   
+
+    
