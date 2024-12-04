@@ -1,0 +1,16 @@
+{
+    "alumnoBD": {
+      "alumnos": [
+        {
+          "nombre": "",
+          "observaciones": "",
+          "nif": "",
+          "resultado": {
+            "estado": "apto"
+          },
+          "mac": ""
+        }
+      ]
+    }
+  }
+  

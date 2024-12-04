@@ -1,0 +1,61 @@
+{
+    "cochesBD": {
+      "coche": [
+        {
+          "codigo": "G7A9B2",
+          "marca": "Subaru",
+          "modelo": "Impreza WRX STI",
+          "matricula": "XYZ1234",
+          "potencia": 300,
+          "plazas": 5,
+          "num_puertas": 4
+        },
+        {
+          "codigo": "H9B3C5",
+          "marca": "Toyota",
+          "modelo": "Celica GT-Four",
+          "matricula": "ABC5678",
+          "potencia": 250,
+          "plazas": 4,
+          "num_puertas": 3
+        },
+        {
+          "codigo": "J8L1M9",
+          "marca": "Mitsubishi",
+          "modelo": "Lancer Evolution IX",
+          "matricula": "LMN9876",
+          "potencia": 280,
+          "plazas": 5,
+          "num_puertas": 4
+        },
+        {
+          "codigo": "P2F6R8",
+          "marca": "Nissan",
+          "modelo": "Skyline GT-R",
+          "matricula": "DEF4321",
+          "potencia": 280,
+          "plazas": 4,
+          "num_puertas": 2
+        },
+        {
+          "codigo": "Q7B4S3",
+          "marca": "Honda",
+          "modelo": "Civic Type R",
+          "matricula": "JKL1234",
+          "potencia": 306,
+          "plazas": 5,
+          "num_puertas": 4
+        },
+        {
+          "codigo": "K9J2T5",
+          "marca": "Mazda",
+          "modelo": "RX-7",
+          "matricula": "GHJ8765",
+          "potencia": 276,
+          "plazas": 2,
+          "num_puertas": 2
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,127 @@
+{
+    "libreriaBD": {
+      "libro": [
+        {
+          "codigo": "G7A9B2",
+          "titulo": "El Visitante",
+          "editorial": "Anchor",
+          "edicion": "1st Edition",
+          "isbn": "0307743675",
+          "num_pag": 304,
+          "autor": {
+            "nombre": "Stephen King",
+            "genero_p": "Horror"
+          }
+        },
+        {
+          "codigo": "H9B3C5",
+          "titulo": "La Sombra del Viento",
+          "editorial": "Planeta",
+          "edicion": "2nd Edition",
+          "isbn": "8408089040",
+          "num_pag": 560,
+          "autor": {
+            "nombre": "Carlos Ruiz Zafón",
+            "genero_p": "Fiction"
+          }
+        },
+        {
+          "codigo": "K8L7A4",
+          "titulo": "Cien Años de Soledad",
+          "editorial": "Sudamericana",
+          "edicion": "50th Anniversary Edition",
+          "isbn": "9780307474728",
+          "num_pag": 448,
+          "autor": {
+            "nombre": "Gabriel García Márquez",
+            "genero_p": "Magical Realism"
+          }
+        },
+        {
+          "codigo": "D3B1F7",
+          "titulo": "1984",
+          "editorial": "Penguin",
+          "edicion": "Reprint Edition",
+          "isbn": "0451524934",
+          "num_pag": 328,
+          "autor": {
+            "nombre": "George Orwell",
+            "genero_p": "Dystopian"
+          }
+        },
+        {
+          "codigo": "Q2F8Z6",
+          "titulo": "Orgullo y Prejuicio",
+          "editorial": "Penguin Classics",
+          "edicion": "Annotated Edition",
+          "isbn": "9780141439518",
+          "num_pag": 432,
+          "autor": {
+            "nombre": "Jane Austen",
+            "genero_p": "Romance"
+          }
+        },
+        {
+          "codigo": "R1P6T3",
+          "titulo": "El Hobbit",
+          "editorial": "Houghton Mifflin",
+          "edicion": "Deluxe Edition",
+          "isbn": "9780618260300",
+          "num_pag": 320,
+          "autor": {
+            "nombre": "J.R.R. Tolkien",
+            "genero_p": "Fantasy"
+          }
+        },
+        {
+          "codigo": "A5K2W4",
+          "titulo": "El Alquimista",
+          "editorial": "HarperCollins",
+          "edicion": "25th Anniversary Edition",
+          "isbn": "9780062315007",
+          "num_pag": 208,
+          "autor": {
+            "nombre": "Paulo Coelho",
+            "genero_p": "Philosophical Fiction"
+          }
+        },
+        {
+          "codigo": "J8B5M1",
+          "titulo": "La Guerra de los Mundos",
+          "editorial": "Gallimard",
+          "edicion": "First Edition",
+          "isbn": "9782070405771",
+          "num_pag": 348,
+          "autor": {
+            "nombre": "H.G. Wells",
+            "genero_p": "Science Fiction"
+          }
+        },
+        {
+          "codigo": "T4C9V2",
+          "titulo": "El Retrato de Dorian Gray",
+          "editorial": "Oxford World’s Classics",
+          "edicion": "Revised Edition",
+          "isbn": "9780199535976",
+          "num_pag": 368,
+          "autor": {
+            "nombre": "Oscar Wilde",
+            "genero_p": "Gothic Fiction"
+          }
+        },
+        {
+          "codigo": "P6V3L8",
+          "titulo": "El Gran Gatsby",
+          "editorial": "Charles Scribner's Sons",
+          "edicion": "First Edition",
+          "isbn": "9780743273565",
+          "num_pag": 180,
+          "autor": {
+            "nombre": "F. Scott Fitzgerald",
+            "genero_p": "Classic Fiction"
+          }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "gestoriaBD": {
+      "gestoria": [
+        {
+          "sedeCodigo": {
+            "cliente": {
+              "codigo": "",
+              "descCliente": "",
+              "numero": "",
+              "vivienda": {
+                "ID": "",
+                "coste": "",
+                "resumen": "",
+                "plazo": ""
+              },
+              "empleadoAlta": "",
+              "fechaAlta": ""
+            }
+          }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "BDmodulo": {
+      "modulos": [
+        {
+          "modulo": {
+            "nombreMod": "",
+            "uds": [
+              {
+                "ud": {
+                  "nombre": "",
+                  "descripcion": "",
+                  "tipo": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+  

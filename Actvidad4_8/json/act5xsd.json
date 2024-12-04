@@ -1,0 +1,24 @@
+{
+    "BDgestoria": {
+      "gestoria": [
+        {
+          "sedeCodigo": {
+            "cliente": {
+              "codigo": "x23-v53",
+              "descCliente": "",
+              "numero": "",
+              "vivienda": {
+                "ID": "a34-k345-l35",
+                "coste": "",
+                "resumen": "",
+                "plazo": ""
+              },
+              "empleadoAlta": "",
+              "fechaAlta": ""
+            }
+          }
+        }
+      ]
+    }
+  }
+  

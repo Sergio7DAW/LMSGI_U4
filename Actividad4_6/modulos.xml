@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE modulosBD SYSTEM "modulos.dtd">
+<modulosBD>
+  <modulos>
+    <modulo>
+      <nombreMod></nombreMod>
+      <uds>
+        <ud>
+          <nombre></nombre>
+          <descripcion></descripcion>
+          <tipo></tipo>
+        </ud>
+      </uds>
+    </modulo>
+  </modulos>
+</modulosBD>

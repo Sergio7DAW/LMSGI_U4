@@ -1,0 +1,61 @@
+{
+    "editorialBD": {
+      "documento": {
+        "head": {
+          "title": "",
+          "subtitle": ""
+        },
+        "body": {
+          "rNorte": [
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            },
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            }
+          ],
+          "rCentro": [
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            },
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            },
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            }
+          ],
+          "rSur": [
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            },
+            {
+              "trimestre": {
+                "valor": "1",
+                "librosVentas": ""
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+  

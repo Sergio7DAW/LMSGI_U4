@@ -1,0 +1,14 @@
+<!ELEMENT modulosBD (modulos*)>  
+    <!ELEMENT modulos (modulo)> 
+    <!ELEMENT modulo (nombreMod, uds)> 
+    <!ELEMENT nombreMod (#PCDATA)> 
+    <!ELEMENT uds (ud)> 
+    <!ELEMENT nombre (#PCDATA)> 
+    <!ELEMENT ud (nombre, descripcion, tipo)> 
+    <!ELEMENT descripcion (#PCDATA)> 
+    <!ELEMENT tipo (#PCDATA)> 
+ 
+    
+   
+
+    

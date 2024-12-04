@@ -1,0 +1,20 @@
+<!ELEMENT editorialBD (documento*)>  
+<!ELEMENT documento (head, body)> 
+<!ELEMENT head (title, subtitle)> 
+<!ELEMENT title (#PCDATA)> 
+<!ELEMENT subtitle (#PCDATA)> 
+<!ELEMENT body (rNorte, rCentro, rSur)> 
+<!ELEMENT rNorte (trimestre+)> 
+<!ELEMENT rCentro (trimestre+)> 
+<!ELEMENT rSur (trimestre+)> 
+<!ELEMENT trimestre (librosVentas+)> 
+<!ATTLIST trimestre valor (1|2|3|4) #REQUIRED> 
+<!ELEMENT librosVentas (#PCDATA)> 
+
+
+   
+ 
+    
+   
+
+    

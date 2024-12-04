@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editorialBD SYSTEM "editorial.dtd">
+<editorialBD>
+<documento>
+  <head>
+    <title></title>
+    <subtitle></subtitle>
+  </head>
+  <body>
+    <rNorte>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+    </rNorte>
+    <rCentro>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+    </rCentro>
+    <rSur>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+      <trimestre valor="1">
+        <librosVentas></librosVentas>
+      </trimestre>
+    </rSur>
+  </body>
+</documento>
+</editorialBD>

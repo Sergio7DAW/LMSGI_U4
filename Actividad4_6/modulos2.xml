@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BDmodulo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="BDmodulosSchema.xsd">
+    <modulos>
+    <modulo>
+      <nombreMod></nombreMod>
+      <uds>
+        <ud>
+          <nombre></nombre>
+          <descripcion></descripcion>
+          <tipo></tipo>
+        </ud>
+      </uds>
+    </modulo>
+  </modulos>
+   
+</BDmodulo>
